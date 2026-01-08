@@ -2,7 +2,7 @@
 
 I've been a developer for over 10 years, I started as a delphi developer and since 2020 I started my cycle as a front-end developer where I truly found myself.
 
-I currently work at [DB1 Global Software](https://www.db1.com.br/) as a Front-End Developer.
+I currently work at [Bradesco Seguros](https://www.bradescoseguros.com.br/) as a Front-End Developer.
 
 ***To know more about me, find me on***
 
