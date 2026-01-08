@@ -8,8 +8,6 @@ I currently work at [Bradesco Seguros](https://www.bradescoseguros.com.br/) as a
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamcamasil/)
 
-![William GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcamasil&show_icons=true&theme=transparent)
-
 Reference [old profile](https://github.com/williamcamasil) on github
 
 ## Technologies
